@@ -9,6 +9,28 @@ FitTrackr is a cross-platform fitness tracking app built with Flutter. It helps 
 - User-friendly interface
 - Cross-platform support (Android, iOS, Web, Desktop)
 
+## App Screenshots
+
+### Main Dashboard
+![Main Dashboard](assets/dashboard.jpg)
+The main dashboard provides an overview of your daily progress, calorie tracking, fitness goal, and motivational tips to help you stay on track.
+
+### Splash Screen
+![Splash Screen](assets/splash.jpg)
+The splash screen welcomes you to FitTrackr with a clean and simple loading interface.
+
+### Workout Page
+![Workout Page](assets/workout.jpg)
+The workout page allows you to log exercises, select muscle groups, and track your workout routines efficiently.
+
+### Profile Page
+![Profile Page](assets/profile.jpg)
+The profile page displays your personal information, fitness goals, and daily calorie targets in a clear and organized manner.
+
+### Food Log Page
+![Food Log Page](assets/foodlog.jpg)
+The food log page helps you track your meals and calories, with options to search for foods or add custom entries.
+
 ## Getting Started
 To run the app locally:
 
