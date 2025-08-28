@@ -2,6 +2,10 @@
 
 FitTrackr is a cross-platform fitness tracking app built with Flutter. It helps users monitor their workouts, track progress, and stay motivated on their fitness journey. The app features a user-friendly interface, workout logging, progress visualization, and customizable fitness goals. FitTrackr is designed for anyone looking to improve their health and fitness, whether you’re a beginner or an experienced athlete.
 
+## Download
+
+[Download the FitTrackr app here](#)  <!-- Replace # with your actual download link when available -->
+
 ## Features
 - Workout logging
 - Progress tracking and visualization
